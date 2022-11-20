@@ -24,9 +24,9 @@
     "wait-on": "^6.0.1"
   },
   "build": {
-    "appId": "com.yumefactory.yznutable",
-    "productName": "YZNUtable",
-    "copyright": "Copyright © 2021 <yumefactory>",
+    "appId": "com.yumefactory.yznusignin",
+    "productName": "YZNUsignin",
+    "copyright": "Copyright © 2022 <yumefactory>",
     "mac": {
       "category": "public.app-category.utilities"
     },
